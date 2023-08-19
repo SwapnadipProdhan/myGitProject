@@ -1,4 +1,5 @@
 a = 20
 b = 80
-c = a + b
-print("The sum value is", +c)
+c = 85
+d = a + b + c
+print("The sum value is", +d)
