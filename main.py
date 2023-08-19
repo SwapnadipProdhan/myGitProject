@@ -1,7 +1,7 @@
 a = 20
 b = 80
-c = 85
-d = a - b - c
+z = 85
+d = a - b - z
 print("The sum value is", +d)
 e = 10
 f = 50
